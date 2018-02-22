@@ -1,0 +1,64 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\studio\\MyAppZiXun\\library\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-ko\\values-ko.xml",
+            "map": [
+                {
+                    "source": "D:\\studio\\MyAppZiXun\\library\\build\\intermediates\\bundles\\debug\\res\\values-ko\\values-ko.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,121,188",
+                        "endColumns": "65,66,68",
+                        "endOffsets": "116,183,252"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\studio\\MyAppzhoukao2_2\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-ko\\values-ko.xml",
+            "map": [
+                {
+                    "source": "D:\\studio\\MyAppzhoukao2_2\\library\\build\\intermediates\\bundles\\debug\\res\\values-ko\\values-ko.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,121,188",
+                        "endColumns": "65,66,68",
+                        "endOffsets": "116,183,252"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\studio\\MyAppzhoukao2_2\\library\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-ko\\values-ko.xml",
+            "map": [
+                {
+                    "source": "D:\\studio\\MyAppzhoukao2_2\\library\\build\\intermediates\\bundles\\debug\\res\\values-ko\\values-ko.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,121,188",
+                        "endColumns": "65,66,68",
+                        "endOffsets": "116,183,252"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\studio\\MyAppZiXun\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-ko\\values-ko.xml",
+            "map": [
+                {
+                    "source": "D:\\studio\\MyAppZiXun\\library\\build\\intermediates\\bundles\\debug\\res\\values-ko\\values-ko.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,121,188",
+                        "endColumns": "65,66,68",
+                        "endOffsets": "116,183,252"
+                    }
+                }
+            ]
+        }
+    ]
+}
